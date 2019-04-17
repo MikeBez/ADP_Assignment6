@@ -14,6 +14,10 @@ I would like to develop a system/ mobile application where commuters are able to
 The aim of this solution is to try and provide commuters the necessary information needed so that they can plan better and save many a lot of time and money.
 
 
-See diagram Below:
-
+#### See UML class diagram Below:
 ![](MetroFail/src/images/AdpUMLAssignment6.png)
+
+
+
+#### Below is a use case diagram of Happy path of the System:
+![](MetroFail/src/images/Blank%20Diagram%20(7).png)
